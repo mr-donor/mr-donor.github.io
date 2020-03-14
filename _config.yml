@@ -93,7 +93,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+## theme: landscape
+theme: donor
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -102,3 +103,9 @@ deploy:
   repo: https://github.com/mr-donor/mr-donor.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
+
+browsersync:
+  logLevel: "warn"
+  ghostMode:
+    scroll: true
+  instanceName: "uniqueString"

@@ -1,0 +1,25 @@
+{
+  "name": "hexo-theme-donor",
+  "version": "1.0.0",
+  "description": "The Hexo theme designed by Donnie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mr-donor/hexo-theme-donor.git"
+  },
+  "keywords": [
+    "hexo",
+    "theme",
+    "donor",
+    "blog"
+  ],
+  "author": "Mr.donor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-donor/hexo-theme-donor/issues"
+  },
+  "homepage": "https://github.com/mr-donor/hexo-theme-donor#readme"
+}

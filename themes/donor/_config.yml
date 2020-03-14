@@ -1,0 +1,25 @@
+# -------------------------------------------------------------------------
+# 主題配置設置 (Theme Core Configuration Settings)
+# 參閱: https://github.com/mr-donor/hexo-theme-donor/docs/theme-settings.md
+# -------------------------------------------------------------------------
+
+# 新版本提醒 (version reminder)
+# 若有新版本釋出會在控制台提醒
+reminder: false
+
+# 設定網站主選單 (Set site-menu)
+# Tip: When running the site in a subdirectory (e.g. github.io/blog), remove the leading slash (/archives -> archives)
+# 若將網站架設在子目錄，需移除路徑最前面的斜線 (/)
+menu:
+  home: /
+
+# 設定語系支持 (languages support) #
+language:
+  - default
+  - zh-TW
+  - en-US
+
+# 主題設定 (Scheme Settings)
+# scheme: Libra
+# scheme: Aquarius
+scheme: Libra
